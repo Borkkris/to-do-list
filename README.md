@@ -1,9 +1,7 @@
-# to-do-list
-
 # Chrisrtians to-do-list
 
 This is my to-do-list I created as a fellow for CareerFoundry.
-You can add, reorder, cross out or delete your to-do's.
+You can add, reorder, cross out or delete your to-dos's
 
 ##Tech Tools:
 - HTML5
