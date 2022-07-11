@@ -32,5 +32,20 @@
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
   <script src="JS/script.js"></script>
+
+  <script>// when pressing enter the item is added to the list
+	const button = document.getElementById('button');
+	const input = document.getElementById('input');
+
+	input.addEventListener('keydown', (e) => {
+
+		if (event.key === 'Enter') {
+			e.preventDefault();
+			e.stopPropagation();
+		
+			newItem()
+		}
+	})
+  </script>
   </body>
 </html>
