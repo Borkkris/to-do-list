@@ -11,7 +11,7 @@ padding: 20px;
 width: 40em;
 margin: 0 auto;
 margin-top: 40px;
-background: linear-gradient(90deg,#75cce0, white);
+background: white;
 border: 3px ridge rgb(202, 200, 200);
 border-radius: 5px;}
 
@@ -25,7 +25,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#75cce0;
+background-color:lightcoral;
 color:#ffffff;
 border-radius: 5px;
 border: 0.5px solid black;
@@ -38,14 +38,14 @@ padding: 5px 15px;
 cursor: pointer;
 opacity: .8;
 border: 0.5px solid lightgray;
-background-color: #87b7c1;
+background-color: rgb(211, 112, 112);
 }
 
 ol {padding-left: 20px;}
 
 ol li {padding: 5px;color:#000;}
 
-ol li:nth-child(even){background: linear-gradient(270deg,#75cce0, white)}
+ol li:nth-child(even){background: rgb(243, 188, 188)}
 
 .strike{
 	text-decoration: line-through;
