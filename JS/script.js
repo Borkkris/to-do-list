@@ -30,12 +30,3 @@ function newItem(){
   // to reorder the items in the list
    $('#list').sortable();
 }
-
-
-
-
-
-
-
-
-
