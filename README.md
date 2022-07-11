@@ -9,7 +9,7 @@ You can add, reorder, cross out or delete your to-dos's
 - jQuery
 
 ##Screenshot:
-> ![Screenshot Index.html](website_portfolio_index_html_screenshot.png "Screenshot Index.html")
+![Screenshot Index.html](to-do-list_screenshot_index_html.png "Screenshot Index.html")
 
 ##Link:
 https://borkkris.github.io/to-do-list/
