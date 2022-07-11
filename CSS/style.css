@@ -3,15 +3,15 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #dfdfdf;
+background: #ffffff;
 }
 
 .container{
 padding: 20px;
-width: 300px;
+width: 40em;
 margin: 0 auto;
 margin-top: 40px;
-background: white;
+background: linear-gradient(90deg,#75cce0, white);
 border-radius: 5px;}
 
 form {
@@ -24,9 +24,10 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#75cce0;
 color:#ffffff;
 border-radius: 5px;
+border: 0.5px solid black;
 text-align:center;
 margin-top:2px;
 padding: 5px 15px;
@@ -34,15 +35,20 @@ padding: 5px 15px;
 
 #button:hover{
 cursor: pointer;
-opacity: .8;}
+opacity: .8;
+border: 0.5px solid lightgray;
+background-color: #87b7c1;
+}
 
 ol {padding-left: 20px;}
 
 ol li {padding: 5px;color:#000;}
 
-ol li:nth-child(even){background: #dfdfdf;}
+ol li:nth-child(even){background: linear-gradient(270deg,#75cce0, white)}
 
-.strike{text-decoration: line-through;}
+.strike{
+	text-decoration: line-through;
+}
 
 li:hover{
   cursor: pointer;
