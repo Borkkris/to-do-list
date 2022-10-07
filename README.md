@@ -1,4 +1,4 @@
-# Chrisrtians to-do-list
+# Christians to-do-list
 
 This is my to-do-list I created as a fellow for CareerFoundry.
 You can add, reorder, cross out or delete your to-dos's
